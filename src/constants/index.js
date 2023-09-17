@@ -113,7 +113,7 @@ const experiences = [
     company_name: "Glyde Rides",
     icon: Glyde,
     iconBg: "#383E56",
-    date: "Feb 2023 - April 2023",
+    date: "July 2023 - Sep 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -126,7 +126,7 @@ const experiences = [
     company_name: "Social Summer Of Code",
     icon: Ssoc,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "June 2023 - Aug 2023",
     points: [
       "Collaborated with a diverse, global community of developers to drive innovation and solve complex coding challenges.",
       "Gained expertise in React, harnessing its capabilities to create dynamic and user-friendly web interfaces.",
